@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Pravin
 
-<!--
-**pravinn19/pravinn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE in Computer Science Engineering (2022 graduate)  
+🔁 Currently reskilling in Python, AI/ML & automation  
+💻 Building hands-on projects to showcase my learning journey  
+🛠️ Interests: Python • Machine Learning • Automation • Telegram Bots  
+📂 Projects so far:  
+- MP3 Player using Python Tkinter
+- Quickaid a product rental app using Dart and Firebase
+- Telegram Media Downloader with GUI  
+- Spam SMS Classifier (coming soon)  
+- Portfolio Website (in progress)
 
-Here are some ideas to get you started:
+🚀 Actively learning and aiming for roles in AI/ML, backend development, or automation engineering.  
+I Believe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me: pravin.v2001@@gmail.com  
+🔗 Portfolio site: [coming soon]
+
